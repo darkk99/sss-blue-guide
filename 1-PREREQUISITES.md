@@ -15,11 +15,11 @@ What gear you should have
 -----
 <details>
 <summary> I started off with 10 gifted spicies and some other stuff, but my gear was the following: </summary>
-* Petal wand
-* Petal belt
-* Coconut canister
-* Bubble mask (can be replaced with honey)
-* 10 Gifted Spicy bees
-* 20-ish tadpole bees
-  * If you are high on honey, use a full gifted spicy bee hive.
+* Petal wand<br>
+* Petal belt<br>
+* Coconut canister<br>
+* Bubble mask (can be replaced with honey)<br>
+* 10 Gifted Spicy bees<br>
+* 20-ish tadpole bees<br>
+  * If you are high on honey, use a full gifted spicy bee hive.<br>
 </details>
