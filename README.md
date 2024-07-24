@@ -21,15 +21,15 @@ The bubble canister should be unlocked last for the reason at the top of this do
 The quests you should do
 -----
 <details>
-  <summary>Tidal Popper</summary>
-  Bucko Bee quests are really all you need.<br>
-  It'll give you the blueberries and everything for Tidal Popper. <i><b>I</b></i> did Shadow Bear's last quest before this <sub><sub>because its easy and gives <i>9999</i> blueberries</sub></sub> but you could do it after.
+    <summary>Tidal Popper</summary>
+    Bucko Bee quests are really all you need.<br>
+    It'll give you the blueberries and everything for Tidal Popper. <i><b>I</b></i> did Shadow Bear's last quest before this <sub><sub>because its easy and gives <i>9999</i> blueberries</sub></sub> but you could do it after.
 </details>
 
 <details>
   <summary>Diamond Mask</summary>
-  1. Black bear - Gives 1 diamond egg on one of the later quests.<br>
-  2. Brown bear - Gives 1 diamond egg (23rd quest)<br>
-  3. Shadow bear - Last quest gives 3 diamond eggs<br>
-  ..* <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub><br>
+    1. Black bear - Gives 1 diamond egg on one of the later quests.<br>
+    2. Brown bear - Gives 1 diamond egg (23rd quest)<br>
+    3. Shadow bear - Last quest gives 3 diamond eggs<br>
+    ..* <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub><br>
 </details>
