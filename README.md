@@ -56,7 +56,7 @@ The quests you should do
 
 <details>
   <summary>Diamond Mask</summary>
-  ### test
+ 
   1. Black bear - Gives 1 diamond egg on one of the later quests.
   2. Brown bear - Gives 1 diamond egg (23rd quest)
   3. Shadow bear - Last quest gives 3 diamond eggs
