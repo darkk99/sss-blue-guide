@@ -37,8 +37,8 @@ The order you should unlock gear
 -----
 1. Diamond Boots (I think that's what theyre called)
 2. Bucko Guard
-..+ Tidal Popper
-..+ Diamond Mask
+..* Tidal Popper
+..* Diamond Mask
 4. Bubble Canister
 
 The diamond boots are the easiest, costing only 15m honey.<br>
