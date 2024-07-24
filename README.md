@@ -23,7 +23,7 @@ The quests you should do
 <details>
   <summary>Tidal Popper</summary>
   Bucko Bee quests are really all you need.<br>
-  It'll give you the blueberries and everything for Tidal Popper. <i>I</i> did Shadow Bear's last quest before this <sub>because its easy and gives 9999 blueberries</sub> but you could do it after.
+  It'll give you the blueberries and everything for Tidal Popper. <i><b>I<b></i> did Shadow Bear's last quest before this <sub>because its easy and gives 9999 blueberries</sub> but you could do it after.
 </details>
 
 <details>
