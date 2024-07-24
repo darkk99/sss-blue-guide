@@ -13,8 +13,8 @@ Diamond Mask needs 5 Diamond Eggs and so does Pop Star, but with those you could
 
 What gear you should have
 -----
-<summary> I started off with 10 gifted spicies and some other stuff, but my gear was the following: </summary>
 <details>
+<summary> I started off with 10 gifted spicies and some other stuff, but my gear was the following: </summary>
 * Petal wand
 * Petal belt
 * Coconut canister
