@@ -60,5 +60,5 @@ The quests you should do
   1. Black bear - Gives 1 diamond egg on one of the later quests.
   2. Brown bear - Gives 1 diamond egg (23rd quest)
   3. Shadow bear - Last quest gives 3 diamond eggs
-  * <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub>
+  <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub>
 </details>
