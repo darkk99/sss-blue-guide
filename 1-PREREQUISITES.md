@@ -7,4 +7,4 @@ If you are reading this because you are a red hive already, and want to go white
 Stay as a red hive.
 Blue hive is quite expensive in Diamond Eggs, and *at the moment* is NOT worth using as a transition to white.
 Diamond Mask needs 5 Diamond Eggs and so does Pop Star, but with those you could invest in a Supreme Star Amulet.
--# note: all quests combined (including B.B.M.) only give 13 diamond eggs, which is not enough for the Diamond Mask, Pop Star, and Supreme Star Amulet combined (20 diamond eggs)
+<sub>note: all quests combined (including B.B.M.) only give 13 diamond eggs, which is not enough for the Diamond Mask, Pop Star, and Supreme Star Amulet combined (20 diamond eggs)</sub>
