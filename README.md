@@ -22,14 +22,14 @@ The quests you should do
 -----
 <details>
   <summary>Tidal Popper</summary>
-    Bucko Bee quests is really all you need.<br>
-    It'll give you the blueberries and everything for Tidal Popper. <i>I</i> did Shadow Bear's last quest before this <sub>because its easy and gives 9999 blueberries</sub> but you could do it after.
+  Bucko Bee quests is really all you need.<br>
+  It'll give you the blueberries and everything for Tidal Popper. <i>I</i> did Shadow Bear's last quest before this <sub>because its easy and gives 9999 blueberries</sub> but you could do it after.
 </details>
 
 <details>
   <summary>Diamond Mask</summary>
-    1. Black bear - Gives 1 diamond egg on one of the later quests.
-    2. Brown bear - Gives 1 diamond egg (23rd quest)
-    3. Shadow bear - Last quest gives 3 diamond eggs
-    ..* <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub>
+  1. Black bear - Gives 1 diamond egg on one of the later quests.
+  2. Brown bear - Gives 1 diamond egg (23rd quest)
+  3. Shadow bear - Last quest gives 3 diamond eggs
+  ..* <sub> Sage Journey 10 gives 2 diamond eggs, but requires you to collect 250b of any pollen. do sage journey 9 though and just get it over time if you don't want to do brown bear</sub>
 </details>
